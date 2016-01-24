@@ -7,7 +7,7 @@
 #include <iostream>
 
 int main() {
-    // TODO Substitute 11 with your UCD ID number, modulo 13 (myId % 13)
+    // updated my student ID and then preformed a mod 13 on it.
     std::cout << "Hello, world! My number is " << 811025435 << '!' << std::endl;
     std::cout << "Hello, world! My number is " << 811025435 <<"after modulo it is" << 9 << std::endl;
 
